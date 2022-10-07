@@ -1,1 +1,1 @@
-# triangle_functions
+# triangle
