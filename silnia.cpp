@@ -15,6 +15,7 @@ int main()
 	cout << "Funkcje trygonometryczne" << endl;
 	cout << endl << "[1]radiany\n[2]boki\n[3]opuść" << endl;
 	cin >> wybór;
+	cout << endl;
 	switch (wybór)
 	{
 	case 1:
